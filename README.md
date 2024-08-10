@@ -12,7 +12,10 @@ This repository contains a Python application meant to be launched as an Elastic
 5. curl: Download and install curl from [here](https://curl.se/download.html)
 
 ## 3. Launching the app
-1. git clone ... && cd ...
+1. Run:
+    ```
+    git clone https://github.com/rahulrajaram/elastic-beanstalk-bot-hardening && cd elastic-beanstalk-bot-hardening
+    ```
 2. Run:
     ```
     pip install -r requirements.txt
